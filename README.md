@@ -16,3 +16,6 @@ Hi! I'm 15 and my passion is to write code. I started to do it when I was 13 and
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aitortxu20&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=aitortxu20&label=Profile%20Views&color=11&pretty=true" />
+</a>
