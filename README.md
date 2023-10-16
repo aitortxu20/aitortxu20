@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi! I'm 16 and my passion is to write code. I started to do it when I was 13 and I'm always learning about it.
+Hi! My passion is to write code. I started to do it when I was 13 and I'm always learning about it.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aitortxu_pk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aitor-ontibero-6616b7232) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/283156) 
