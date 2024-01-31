@@ -5,7 +5,7 @@ Hi! My passion is to write code. I started to do it when I was 13 and I'm always
 
 ## 🌐Socials
 <a href = "mailto:ontiberoaitor@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href = "https://linkedin.com/in/aitor-ontibero"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a target="_blank" href = "https://linkedin.com/in/aitor-ontibero"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18746012/aitor-ontibero) 
 
 # 💻Tech Stack
