@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=4200&pause=500&color=733DF7&center=true&random=false&width=435&lines=Hi!+My+name+is+Aitor)](https://git.io/typing-svg)
+
 # 💫About Me :
 Hi! My passion is to write code. I started to do it when I was 13 and I'm always learning about it. I'm also interested in cybersecurity.
 
